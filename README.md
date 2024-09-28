@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prachimishra1
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to work for data science
 - 📫 How to reach me prachimishrasu8858@gmail.com
 
 <!---
