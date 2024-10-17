@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prachimishra1
+- 👋 Hi, I’m @prachimishra3
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to work for data science
