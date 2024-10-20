@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 Passionate **Data Scientist** with expertise in Machine Learning, Data Analysis, and Data Visualization.
-- 🔭 Working on **Data Extraction and NLP** project using the IDRiD dataset for Diabetic Retinopathy.
+- 🔭 Working on **Segmentation and Classification** project using the IDRiD dataset for Diabetic Retinopathy.
 - 📊 Proficient in tools like Python, TensorFlow, Keras, and Power BI.
 - 📚 Always learning and improving, currently diving deep into Natural Language Processing and Data Science.
 
