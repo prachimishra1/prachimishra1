@@ -1,10 +1,10 @@
 # Hi there, I'm Prachi Mishra! 👋
 
 ## About Me
-- 🌱 Passionate **Data Scientist** with expertise in Machine Learning, Data Analysis, and Data Visualization.
-- 🔭 Currently working on **Data Extraction and NLP** project using the IDRiD dataset for Diabetic Retinopathy.
-- 📊 Proficient in tools like Python, TensorFlow, Keras, and Power BI.
-- 📚 Always learning and improving, currently diving deep into Natural Language Processing and Data Science.
+## 🙋‍♀️ About Me
+
+I'm Prachi Mishra, a dedicated **Data Analyst** and **Data Scientist** with a passion for uncovering insights from data and driving decision-making through analytics. With strong proficiency in **Python**, **TensorFlow**, **Keras**, and **Power BI**, I specialize in analyzing complex datasets and building predictive models to solve real-world problems. My current focus is on a **Data Extraction and NLP** project using the **Inputs** for **Data Analysis**. I enjoy working with tools like **Pandas**, **NumPy**, and **MySQL** to process data, and I’m committed to continuously expanding my knowledge in **Machine Learning** and **Deep Learning** to create impactful solutions. My mission is to leverage data to unlock value and drive innovation across industries.
+
 
 ## 🛠️ My Skills
 
@@ -16,6 +16,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
