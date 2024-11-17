@@ -3,7 +3,10 @@
 ## About Me
 ## 🙋‍♀️ About Me
 
-I'm Prachi Mishra, a dedicated **Data Analyst** and **Data Scientist** with a passion for uncovering insights from data and driving decision-making through analytics. With strong proficiency in **Python**, **TensorFlow**, **Keras**, and **Power BI**, I specialize in analyzing complex datasets and building predictive models to solve real-world problems. My current focus is on a **Data Extraction and NLP** project using the **Inputs** for **Data Analysis**. I enjoy working with tools like **Pandas**, **NumPy**, and **MySQL** to process data, and I’m committed to continuously expanding my knowledge in **Machine Learning** and **Deep Learning** to create impactful solutions. My mission is to leverage data to unlock value and drive innovation across industries.
+Hi, I'm **Prachi Mishra**, a passionate **Data Analyst** and **Data Scientist** who thrives on uncovering insights from data and solving complex problems. I specialize in **Machine Learning**, **Deep Learning**, and **Data Visualization**, using tools like **Python**, **TensorFlow**, **Keras**, and **Power BI** to build impactful data-driven solutions.
+
+I recently completed a **Data Extraction and NLP** project, where I worked on extracting data from **URL IDs**. My major project focuses on **Diabetic Retinopathy detection**, showcasing my expertise in **Deep Learning** and **Computer Vision**. I’m always exploring new technologies and refining my skills in **NLP** and **Data Science**.
+
 
 
 ## 🛠️ My Skills
